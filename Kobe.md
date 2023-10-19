@@ -26,8 +26,6 @@ muji, namoco, yodobashi
 
 ==================
 
-
-
 ## Day2(11.11, Sat🔥)六甲山、摩耶山 [参考](https://www.mafengwo.cn/gonglve/ziyouxing/165556.html)
 
 
@@ -43,8 +41,6 @@ muji, namoco, yodobashi
 [六甲有马缆车](https://koberope.jp/rokko) (9:30～17:30) (单程<u>1030円</u>，往返<u>1850円</u>)
 
 有马温泉 (金之汤650円，银之汤550円，两馆通券850円，三馆(加上太合汤殿馆)共通券是1000円
-
-原文网址: https://osaka.letsgojp.cn/archives/86207/ © 乐吃购！日本 osaka.letsgojp.cn)
 
 [有马玩具博物馆](http://www.arima-toys.jp/)(10:00-17:00, <u>800円</u>)
 
@@ -70,9 +66,11 @@ tips:
 
 [明石](https://www.booking.com/hotel/jp/hoterupurehuotoxi-ming-shi.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=a0198d69b89e292aec7846e8742bb2da&all_sr_blocks=626119702_327215126_1_2_0%2C626119702_327215126_1_2_0;checkin=2023-11-11;checkout=2023-11-12;dest_id=-249153;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=626119702_327215126_1_2_0%2C626119702_327215126_1_2_0;hpos=1;matching_block_id=626119702_327215126_1_2_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=626119702_327215126_1_2_0__930600%2C626119702_327215126_1_2_0__930600;srepoch=1697716977;srpvid=e79b54b38a1e0294;type=total;ucfs=1&#_)
 
+
+==================
+
+
 ## Day3(11.12, Sun) 神户港周边
-
-
 
 [神户海洋博物馆](https://kobe-maritime-museum.com/s_chinese.html)(10:00-18:00 <u>900円</u>) + 北野异人馆街道
 
@@ -97,6 +95,7 @@ tips:
 
 ==================
 
+
 ## Day4 明石 - 淡路岛- 姬路(11.13, Mon)
 
 明石大橋
@@ -119,7 +118,9 @@ https://www.mafengwo.cn/gonglve/ziyouxing/330356.html
 
 [姬路蒙特利酒店559不退/709](https://www.booking.com/hotel/jp/hoterumontoreji-lu.zh-cn.html?aid=304142&label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=a0198d69b89e292aec7846e8742bb2da&dest_id=-229173&dest_type=city&room1=A%2CA&group_adults=2&group_children=0&no_rooms=1&checkin=2023-11-13&checkout=2023-11-14&highlighted_blocks=231656610_0_2_0_0&atlas_src=sr_iw_title&ucfs=1)
 
+
 ==================
+
 
 ## Day5 姬路(11.14, Tue)
 
@@ -133,6 +134,11 @@ https://www.mafengwo.cn/gonglve/ziyouxing/330356.html
 
 🛏️ `姬路`
 
+
+==================
+
+
+
 ## Day6 京都(11.16, Wed)
 
 🚇 姬路 - 京都
@@ -145,9 +151,12 @@ https://www.mafengwo.cn/gonglve/ziyouxing/330356.html
 
 🛏️ `京都`
 
-[hotel androoms Kyoto Shichijo 1386](https://www.booking.com/hotel/jp/androoms-kyoto-shichijo.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=a0198d69b89e292aec7846e8742bb2da&all_sr_blocks=694124602_0_2_0_0;checkin=2023-11-16;checkout=2023-11-17;dest_id=-235402;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=694124602_0_2_0_0;hpos=1;matching_block_id=694124602_0_2_0_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=694124602_0_2_0_0__2839586;srepoch=1697717721;srpvid=462456229a75016d;type=total;ucfs=1&#_)
+❓[hotel androoms Kyoto Shichijo 1386](https://www.booking.com/hotel/jp/androoms-kyoto-shichijo.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=a0198d69b89e292aec7846e8742bb2da&all_sr_blocks=694124602_0_2_0_0;checkin=2023-11-16;checkout=2023-11-17;dest_id=-235402;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=694124602_0_2_0_0;hpos=1;matching_block_id=694124602_0_2_0_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=694124602_0_2_0_0__2839586;srepoch=1697717721;srpvid=462456229a75016d;type=total;ucfs=1&#_)
 
 [abnb 1419](https://www.airbnb.cn/rooms/15362865?adults=3&check_in=2023-11-16&check_out=2023-11-17&source_impression_id=p3_1697717984_zLJSQyw6GgMvgGAe&previous_page_section_name=1000&federated_search_id=a5595435-6b9b-4426-806e-0f7ebabb7d42)
+
+
+==================
 
 
 ## Day7 (11.17, Thu🔥)
@@ -156,12 +165,20 @@ https://www.mafengwo.cn/gonglve/ziyouxing/330356.html
 
 🚇 奈良 - 京都
 
-🛏️ `大阪`
+🛏️ `京都`
 
+
+==================
 
 
 ## Day8 (11.18, Fri🔥)
 
+
+
+🛏️ `大阪`
+
+
+==================
 
 
 ## Day9 大阪(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
@@ -176,9 +193,13 @@ NIFREL的海游馆
 
 🛏️ `大阪`
 
+
+==================
+
+
 ## Day10(11.19)
 
-nitendo, 
+
 
 
 
