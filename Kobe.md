@@ -4,9 +4,9 @@
 
 ✈️ 8:45-12:40
 
-关西机场- 梅田()
+🚇 关西机场 - 梅田(HARUKA 1200円),  check in
 
-心斋桥、黑门市场、
+🚇 梅田-心斋桥(240円)、`黑门市场`
 
 🍞 矶丸水产、一兰拉面、老板🍜
 
@@ -26,22 +26,35 @@ muji, namoco, yodobashi
 
 ==================
 
+
+
 ## Day2(11.11, Sat🔥)六甲山、摩耶山 [参考](https://www.mafengwo.cn/gonglve/ziyouxing/165556.html)
 
-🚇 JR 4Day pass / 有马六甲山一日游券
 
 
+🚇 梅田-三宫/御影(330/420円)
 
-摩耶山(森林植物园、天上寺)
-六甲山(六甲山牧场、六甲八音盒博物馆、六甲高山植物园、六甲有马索道)
+16路🚌 到六甲缆车(210-160円)
 
-有马温泉 + 有马玩具博物馆
+[六甲缆车](https://www.rokkosan.com/cable/operation/?lang=zh-CHS) (7:10-21:10, 每20m一班) (单程<u>600円</u>, 往返<u>1100円</u>)
+
+[六甲山](https://www.rokkosan.com/top/operations/?lang=zh-CHS) (六甲山牧场、六甲八音盒博物馆 /六甲高山植物园通券(<u>1230円</u>)、六甲有马索道)
+
+[六甲有马缆车](https://koberope.jp/rokko) (9:30～17:30) (单程<u>1030円</u>，往返<u>1850円</u>)
+
+有马温泉 (金之汤650円，银之汤550円，两馆通券850円，三馆(加上太合汤殿馆)共通券是1000円
+
+原文网址: https://osaka.letsgojp.cn/archives/86207/ © 乐吃购！日本 osaka.letsgojp.cn)
+
+[有马玩具博物馆](http://www.arima-toys.jp/)(10:00-17:00, <u>800円</u>)
 
 神户夜景🌃
 
 tips: 
 
 土山人荞麦面馆🍞
+
+ JR 4Day pass / 有马六甲山一日游券🚇
 
 六甲山(有马六甲 山的一日游劵2360/2560日元, 梅田的阪神电车站长室。[链接](https://www.mafengwo.cn/wenda/detail-7072357-7074374.html), [链接2](https://www.mafengwo.cn/i/17191819.html?sys_ver=)) 
 
@@ -61,7 +74,7 @@ tips:
 
 
 
-神户海洋博物馆 + 北野异人馆街道
+[神户海洋博物馆](https://kobe-maritime-museum.com/s_chinese.html)(10:00-18:00 <u>900円</u>) + 北野异人馆街道
 
 王子动物园
 
@@ -142,6 +155,8 @@ https://www.mafengwo.cn/gonglve/ziyouxing/330356.html
 🚇 京都 - 奈良
 
 🚇 奈良 - 京都
+
+🛏️ `大阪`
 
 
 
