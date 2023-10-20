@@ -18,8 +18,6 @@ muji, namoco, yodobashi
 
 🛏️ 梅田附近
 
-❓ 📈【Via Inn Umeda】[17平米, 双人间934/晚](https://www.booking.com/hotel/jp/via-inn-umeda.zh-cn.html?aid=304142&label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=a0198d69b89e292aec7846e8742bb2da&dest_id=234556&dest_type=landmark&room1=A%2CA&group_adults=2&group_children=0&no_rooms=1&checkin=2023-11-10&checkout=2023-11-11&highlighted_blocks=862747907_354736236_2_2_0&atlas_src=sr_iw_title&ucfs=1)
-
 ⭕️【大阪梅田由尼森酒店, 类比如家】 [14平米, 单人禁烟567/晚|| 双人吸烟773/晚 ](https://www.booking.com/hotel/jp/unizo-osaka-umeda.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&age=0;all_sr_blocks=273866516_273715564_2_2_0;checkin=2023-11-10;checkout=2023-11-11;dest_id=-240905;dest_type=city;dist=0;group_adults=1;group_children=1;hapos=2;highlighted_blocks=273866516_273715564_2_2_0;hpos=2;matching_block_id=273866516_273715564_2_2_0;no_rooms=1;req_adults=1;req_age=0;req_children=1;room1=A%2C0;sb_price_type=total;sr_order=popularity;sr_pri_blocks=273866516_273715564_2_2_0__1583550;srepoch=1697803113;srpvid=54ce5422874703b0;type=total;ucfs=1&#_)
 
 ==================
