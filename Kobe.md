@@ -55,7 +55,7 @@ tips:
 ==================
 
 
-## Day3 三宫 - 须磨 - 三宫(11.12, Sun) 
+## Day3 三宫 - 须磨 - 三宫(11.12, Sun🔥) 
 
 [神户海洋博物馆](https://kobe-maritime-museum.com/s_chinese.html)(10:00-18:00 <u>900円</u>) + 北野异人馆街道
 
@@ -74,7 +74,7 @@ tips:
 
 ## Day4 三宫 - 明石 - 淡路岛- 姬路(11.13, Mon)
 
-##### 上午
+##### 上午:
 
 明石大橋
 
@@ -82,7 +82,7 @@ tips:
 
 淡路岛( ⛲️ 火影忍者主题公园, ⛲️ Awaji Hanasajiki)【❗️14:00左右回程末班车】
 
-##### 下午
+##### 下午:
 
 (漩涡潮游览船)
 
@@ -90,28 +90,22 @@ tips:
 
 [参考链接](https://www.mafengwo.cn/gonglve/ziyouxing/330356.html)
 
-
-
-🛏️ `姬路` 
-
-⭕️【Daiwa Roynet Hotel Himeji】[22平米, 656/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&age=0;all_sr_blocks=353958302_128630071_2_2_0;checkin=2023-11-13;checkout=2023-11-14;dest_id=-229173;dest_type=city;dist=0;group_adults=2;group_children=1;hapos=1;highlighted_blocks=353958302_128630071_2_2_0;hpos=1;matching_block_id=353958302_128630071_2_2_0;no_rooms=1;req_adults=2;req_age=0;req_children=1;room1=A%2CA%2C0;sb_price_type=total;sr_order=popularity;sr_pri_blocks=353958302_128630071_2_2_0__1345500;srepoch=1697984418;srpvid=5fbb64ce0a020015;type=total;ucfs=1&#hotelTmpl)  ✅
+🛏️ `姬路` 【Daiwa Roynet Hotel Himeji】[22平米, 656/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&age=0;all_sr_blocks=353958302_128630071_2_2_0;checkin=2023-11-13;checkout=2023-11-14;dest_id=-229173;dest_type=city;dist=0;group_adults=2;group_children=1;hapos=1;highlighted_blocks=353958302_128630071_2_2_0;hpos=1;matching_block_id=353958302_128630071_2_2_0;no_rooms=1;req_adults=2;req_age=0;req_children=1;room1=A%2CA%2C0;sb_price_type=total;sr_order=popularity;sr_pri_blocks=353958302_128630071_2_2_0__1345500;srepoch=1697984418;srpvid=5fbb64ce0a020015;type=total;ucfs=1&#hotelTmpl)  ✅
 
 ==================
 
 
 ## Day5 姬路 - 赤穗 - 姬路 (11.14, Tue)
 
-⛰️ 姬路城 + 好古园
-
+##### 上午:
 🚇姬路 -赤穗
-
 城忠臣藏
-
 🚇 赤穗 - 姬路
 
-🛏️ `姬路`
+##### 下午:
+⛰️ 姬路城 + 好古园
 
-⭕️【Daiwa Roynet Hotel Himeji】[22平米, 533/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&aid=304142&ucfs=1&arphpl=1&checkin=2023-11-14&checkout=2023-11-15&dest_id=-229173&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=1&req_children=1&age=0&req_age=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5a1c65b1c4ee00c5&srepoch=1697984874&all_sr_blocks=353958301_128630071_2_2_0&highlighted_blocks=353958301_128630071_2_2_0&matching_block_id=353958301_128630071_2_2_0&sr_pri_blocks=353958301_128630071_2_2_0__1380600&from=searchresults#hotelTmpl)  ✅
+🛏️ `姬路`【Daiwa Roynet Hotel Himeji】[22平米, 533/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&aid=304142&ucfs=1&arphpl=1&checkin=2023-11-14&checkout=2023-11-15&dest_id=-229173&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=1&req_children=1&age=0&req_age=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5a1c65b1c4ee00c5&srepoch=1697984874&all_sr_blocks=353958301_128630071_2_2_0&highlighted_blocks=353958301_128630071_2_2_0&matching_block_id=353958301_128630071_2_2_0&sr_pri_blocks=353958301_128630071_2_2_0__1380600&from=searchresults#hotelTmpl)  ✅
 
 ==================
 
@@ -119,12 +113,12 @@ tips:
 
 ## Day6 京都(11.15, Wed)
 
+##### 上午:
 🚇 姬路 - 奈良
-
-
 
 小鹿公园
 
+##### 下午:
 🚇 奈良 - 京都
 
 ⛰️ 二条城
@@ -136,23 +130,29 @@ tips:
 
 
 ## Day7 (11.16, Thu)
-
 🚌 Day pass
 
+##### 上午:
 ⛰️ 清水寺/金阁寺, 商业街
 
+##### 下午:
 ⛰️ 岚山
+
+🚇 奈良 - 京都
 
 🛏️ `京都民宿` (Rokuhara Inn 2卧室) [2448/2晚 不可退❗️](https://www.airbnb.cn/rooms/15362865?adults=3&check_in=2023-11-16&check_out=2023-11-17&source_impression_id=p3_1697717984_zLJSQyw6GgMvgGAe&previous_page_section_name=1000&federated_search_id=a5595435-6b9b-4426-806e-0f7ebabb7d42) ✅
 
 ==================
 
 
-## Day8 (11.17, Fri🔥)
+## Day8 (11.17, Fri)
 
+##### 上午:
 ⛲️ 箕面公园
 NIFREL的海游馆
 ⛲️ 万博纪念公园
+
+##### 下午:
 ⛲️ 胜尾寺
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
@@ -162,10 +162,12 @@ NIFREL的海游馆
 
 ## Day9 大阪(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
+##### 上午:
 (寶塚) 寶塚市立手塚治虫紀念館
 
 中之岛美术馆
 
+##### 下午:
 喜马诺博物馆
 
 美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
