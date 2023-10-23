@@ -76,15 +76,17 @@ tips:
 
 ##### 上午:
 
-明石大橋
-
 🚇 三宫-舞子, 寄存行李
 
 淡路岛( ⛲️ 火影忍者主题公园, ⛲️ Awaji Hanasajiki)【❗️14:00左右回程末班车】
 
 ##### 下午:
 
-(漩涡潮游览船)
+[漩涡潮游览船 8:00-16:30, 30m/班](https://www.uzushio-kisen.com/cn/) (1600日元/人, 可预测4天内观赏时段)
+
+[大鸣门桥漩渦之道 9:00-17:00](https://naruto-tourism.jp/zh/sightseeing/1928) (510円/人)
+
+[大鸣门桥架桥纪念馆 9：00～17：00](https://naruto-tourism.jp/zh/sightseeing/1928) (610円)
 
 🚇 舞子-姬路
 
