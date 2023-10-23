@@ -150,12 +150,19 @@ tips:
 ## Day8 (11.17, Fri)
 
 ##### 上午:
-⛲️ 箕面公园
-NIFREL的海游馆
-⛲️ 万博纪念公园
+
+09:00 🚇 `Umeda Station` - `a`
+
+⛲️ [箕面公园 Free 24h](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) ------ **箕面大滝**, **胜尾寺**
+
+09:00 🚇 `Umeda Station` - `a`
+
+⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage),[参考1](https://www.sohu.com/a/366844513_407570), [参考2](https://www.expo70-park.jp/event/61379/)
+
+09:00 🚇 `Umeda Station` - `a`
 
 ##### 下午:
-⛲️ 胜尾寺
+NIFREL的海游馆
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
 
@@ -167,12 +174,11 @@ NIFREL的海游馆
 ##### 上午:
 (寶塚) 寶塚市立手塚治虫紀念館
 
-中之岛美术馆
+[中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
 
 ##### 下午:
 
 
-美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
 
@@ -189,11 +195,15 @@ NIFREL的海游馆
 11:15 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
 
 ##### 方案2
-11:00 🚇 `梅田` - `机场` (HAKURA 52m 2940円, )
+11:00 🚇 `梅田` - `机场` (HAKURA 52m 2940円,  Osaka Loop line 1210円)
 
 ✈️ 13:50-16:10
 
 
+========================================================================
+
+
+## References
 
 https://zhuanlan.zhihu.com/p/536665790
 
@@ -201,3 +211,5 @@ https://zhuanlan.zhihu.com/p/536665790
 
 路线：
 https://www.mafengwo.cn/i/709304.html?sys_ver=
+
+美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
