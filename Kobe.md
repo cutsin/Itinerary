@@ -151,15 +151,15 @@ tips:
 
 ##### 上午:
 
-09:00 🚇 `Umeda Station` - `a`
+09:00 🚇 `Umeda Station` - `箕面公园` (70m, 280円)
 
 ⛲️ [箕面公园 Free 24h](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) ------ **箕面大滝**, **胜尾寺**
 
-09:00 🚇 `Umeda Station` - `a`
+09:00 🚇 `箕面公园` - `万博纪念公园` (75m, 580円)
 
 ⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage),[参考1](https://www.sohu.com/a/366844513_407570), [参考2](https://www.expo70-park.jp/event/61379/)
 
-09:00 🚇 `Umeda Station` - `a`
+09:00 🚇 `万博纪念公园` - `Umeda Station` (40m 630円)
 
 ##### 下午:
 NIFREL的海游馆
