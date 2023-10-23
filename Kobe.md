@@ -46,7 +46,7 @@ tips:
 
  ❓JR 4Day pass / 有马六甲山一日游券🚇
 
-六甲山(有马六甲 山的一日游劵2360/2560日元, 梅田的阪神电车站长室。[链接](https://www.mafengwo.cn/wenda/detail-7072357-7074374.html), [链接2](https://www.mafengwo.cn/i/17191819.html?sys_ver=)) 
+六甲山(有马六甲 山的一日游劵2360/2560円, 梅田的阪神电车站长室。[链接](https://www.mafengwo.cn/wenda/detail-7072357-7074374.html), [链接2](https://www.mafengwo.cn/i/17191819.html?sys_ver=)) 
 
 
 
@@ -170,7 +170,7 @@ NIFREL的海游馆
 中之岛美术馆
 
 ##### 下午:
-喜马诺博物馆
+
 
 美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
 
@@ -181,11 +181,15 @@ NIFREL的海游馆
 
 ## Day10(11.19, Sun🔥)
 
+##### 方案1
+09:00 🚇 `Umeda Station` - `Sakaihigashi Station` (31m, 520円), +🚶 6m
 
+[Shimano Bicycle Museum 10:00-16:30](https://www.bikemuse.jp/en/)
 
-待定
+11:15 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
 
-🚇 11:30 梅田 - 机场
+##### 方案2
+11:30 🚇 梅田 - 机场
 
 ✈️ 13:50-16:10
 
