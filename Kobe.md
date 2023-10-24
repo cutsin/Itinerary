@@ -6,6 +6,10 @@
 
 🚇 关西机场 - 梅田(HARUKA 1200円),  check in
 
+[大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN). [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
+
+`心斋桥`, `黑门市场`
+
 🍞 矶丸水产、一兰拉面、老板推荐🍜
 
 muji, namoco, yodobashi
@@ -171,14 +175,11 @@ NIFREL的海游馆
 
 ## Day9 大阪 - 随心逛😄(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
-[大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN). [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
-
 ❌ [国立国际美术馆 10:00 - 17:00](https://www.nmao.go.jp/en/) (❌ temporary closure until Feb, 5, 2024)
 
 [海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700日元)
 
 
-`心斋桥`, `黑门市场`
 
 
 (寶塚) 手塚治虫紀念館
