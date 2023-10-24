@@ -6,8 +6,6 @@
 
 🚇 关西机场 - 梅田(HARUKA 1200円),  check in
 
-🚇 梅田-心斋桥(240円)、`黑门市场`
-
 🍞 矶丸水产、一兰拉面、老板推荐🍜
 
 muji, namoco, yodobashi
@@ -20,7 +18,7 @@ muji, namoco, yodobashi
 
 ==================
 
-## Day2(11.11, Sat🔥)六甲山、摩耶山 [参考](https://www.mafengwo.cn/gonglve/ziyouxing/165556.html)
+## Day2(11.11, Sat🔥) 六甲山、摩耶山 [参考](https://www.mafengwo.cn/gonglve/ziyouxing/165556.html)
 
 
 
@@ -159,6 +157,8 @@ tips:
 
 ⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage),[参考1](https://www.sohu.com/a/366844513_407570), [参考2](https://www.expo70-park.jp/event/61379/)
 
+❌ [光之教堂 13:30-16:00](http://ibaraki-kasugaoka-church.jp/e-top.html) (Currently, suspending regular building tours totally.)
+
 09:00 🚇 `万博纪念公园` - `Umeda Station` (40m 630円)
 
 ##### 下午:
@@ -169,14 +169,21 @@ NIFREL的海游馆
 ==================
 
 
-## Day9 大阪(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
+## Day9 大阪 - 随心逛😄(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
-##### 上午:
-(寶塚) 寶塚市立手塚治虫紀念館
+[大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN). [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
+
+❌ [国立国际美术馆 10:00 - 17:00](https://www.nmao.go.jp/en/) (❌ temporary closure until Feb, 5, 2024)
+
+[海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700日元)
+
+
+`心斋桥`, `黑门市场`
+
+
+(寶塚) 手塚治虫紀念館
 
 [中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
-
-##### 下午:
 
 
 
