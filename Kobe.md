@@ -23,7 +23,7 @@
 `14:20` 🏨 办理入住
 
 `15:00` 自由活动
-  - [大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN). [天守阁 9:00～17:00 600円](https://www.osakacastle.net/guide/), [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
+  - [大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN).( [天守阁 9:00～17:00 600円](https://www.osakacastle.net/guide/), [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN))
   - `心斋桥`, `黑门市场`
   - 🍞 矶丸水产、一兰拉面、老板推荐🍜
   - muji, namoco, yodobashi
