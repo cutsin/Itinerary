@@ -69,10 +69,11 @@ tips:
 [王子动物园 09:00 - 16:30](https://www.kobe-ojizoo.jp/) (600円)
 
 [神户海洋博物馆 10:00-18:00](https://kobe-maritime-museum.com/s_chinese.html)(<u>900円</u>) 
-[北野异人馆街道]()
+
+❓[北野异人馆街道](https://www.kobeijinkan.com/cn_s/ijinkan_list)
 
 
-🚇 三宫-须磨
+14:00 🚇 三宫-须磨
 
 须磨寺
 
