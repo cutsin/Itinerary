@@ -97,7 +97,8 @@ tips:
 [明石海峡大橋に一番近い道の駅 ](http://michi-awaji.co.jp/) 
 > (舞子、三宮、大阪ほか高速バス乗り場　>　淡路IC下車　>　タクシーで約５分)
 
-[漩涡潮游览船 8:00-16:30, 30m/班](https://www.uzushio-kisen.com/cn/) (1600円/人, 可预测4天内观赏时段)
+[淡路农场 英格兰之丘 09:30-17:00 1200円](https://www.england-hill.com/tw/)
+[坐船观潮游](https://www.uzushio-kisen.com/cn/) (1600円/人, 可预测4天内观赏时段)
 
 选择一：
 ******
@@ -112,7 +113,7 @@ tips:
 
 选择二：
 ******
-`Uzushio Cruise` 咸临丸、 日本 丸两艘大船，都开的很稳
+[`Uzushio Cruise`](https://www.uzushio-kisen.com/cn/) 咸临丸、 日本 丸两艘大船，都开的很稳
 
 船出发地点：兵庫県南あわじ市福良港 うずしおドームなないろ館
 
