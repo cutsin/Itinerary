@@ -89,15 +89,19 @@ tips:
 
 🚇 三宫-舞子, 寄存行李
 
-🚌 高速巴士 `舞子` - `a`
-淡路岛( ⛲️ 火影忍者主题公园, ⛲️ Awaji Hanasajiki)【❗️14:00左右回程末班车】
-
+🚌 高速巴士 ExpBus `舞子` - `淡路IC下車`
+<!-- 淡路岛( ⛲️ 火影忍者主题公园 , ⛲️ Awaji Hanasajiki)【❗️14:00左右回程末班车】 -->
 [明石海峡大橋に一番近い道の駅 ](http://michi-awaji.co.jp/) 
 > (舞子、三宮、大阪ほか高速バス乗り場　>　淡路IC下車　>　タクシーで約５分)
+
+🎡 [火影忍者主题公园 Naruto x Boruto park Nijigen no mori 10:00 - 20:00](https://ticket.nijigennomori.com/?_gl=1*1wjzx49*_ga*MjAwMzk5MDAzOC4xNjk4MjIxODkw*_ga_ML469TTH3P*MTY5ODIyMTg5MC4xLjEuMTY5ODIyMjUwNS4wLjAuMA..)
+
+[Awaji Hanasajiki]()
 
 ##### 下午:
 
 [淡路农场 英格兰之丘 09:30-17:00 1200円](https://www.england-hill.com/tw/)
+
 [坐船观潮游](https://www.uzushio-kisen.com/cn/) (1600円/人, 可预测4天内观赏时段)
 
 
@@ -119,6 +123,9 @@ tips:
   一种大船(须预约时需要直接付款，现场如果有余票也可以买; 好时段人多~)
 
     1. [`Uzushio Cruise`](https://www.uzushio-kisen.com/cn/) (咸临丸、 日本丸 两艘大船都开的很稳)
+
+
+---------
 
 
 [大鸣门桥漩渦之道 9:00-17:00](https://naruto-tourism.jp/zh/sightseeing/1928) (510円/人)
@@ -186,22 +193,16 @@ tips:
 
 ## Day8 (11.17, Fri)
 
-##### 上午:
-
-09:00 🚇 `Umeda Station` - `箕面公园` (70m, 280円)
+08:30 🚇 `Umeda Station` - `箕面公园` (70m, 280円)
 
 ⛲️ [箕面公园 Free 24h](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) ------ **箕面大滝**, **胜尾寺**
 
-09:00 🚇 `箕面公园` - `万博纪念公园` (75m, 580円)
 
+13:00 🚇 `箕面公园` - `万博纪念公园` (75m, 580円)
 ⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage),[参考1](https://www.sohu.com/a/366844513_407570), [参考2](https://www.expo70-park.jp/event/61379/)
 
-❌ [光之教堂 13:30-16:00](http://ibaraki-kasugaoka-church.jp/e-top.html) (Currently, suspending regular building tours totally.)
+18:00 🚇 `万博纪念公园` - `Umeda Station` (40m 630円)
 
-09:00 🚇 `万博纪念公园` - `Umeda Station` (40m 630円)
-
-##### 下午:
-NIFREL的海游馆
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
 
@@ -210,17 +211,7 @@ NIFREL的海游馆
 
 ## Day9 大阪 - 随心逛😄(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
-❌ [国立国际美术馆 10:00 - 17:00](https://www.nmao.go.jp/en/) (❌ temporary closure until Feb, 5, 2024)
-
 [海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700日元)
-
-
-
-
-(寶塚) 手塚治虫紀念館
-
-[中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
-
 
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
@@ -248,11 +239,16 @@ NIFREL的海游馆
 
 ## References
 
-https://zhuanlan.zhihu.com/p/536665790
+
+[路线参考](https://www.mafengwo.cn/i/709304.html?sys_ver=)
+
+[中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
 
 
+❌ [国立国际美术馆 10:00 - 17:00](https://www.nmao.go.jp/en/) (❌ temporary closure until Feb, 5, 2024)
 
-路线：
-https://www.mafengwo.cn/i/709304.html?sys_ver=
+❌ [光之教堂 13:30-16:00](http://ibaraki-kasugaoka-church.jp/e-top.html) (Currently, suspending regular building tours totally.)
 
 美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
+
+(寶塚) 手塚治虫紀念館
