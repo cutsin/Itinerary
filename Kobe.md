@@ -3,18 +3,27 @@
 ## Day 1 (11.10 PEK-KIX-梅田)
 
 `05:00` 🚗 出发去停车点
+
 `05:45` 🚖 接驳送机
+
 `06:10` 🚗 到达 **T3**，托运、安检
+
 `07:15` 💺 候机，**CA927**
+
 `08:45` 🛫 起飞
+
 `12:40` 🛬 抵达 [**大阪关西机场 T1 (KIX)** ](https://goo.gl/maps/d6hvxZWniCJ2)，拿行李
+
 `13:00` 🚇 去 [**梅田站**](https://maps.app.goo.gl/pd3EdJDkuy2QiNmg6)
   - [🗺 49m路线(Haruka 3700日元)](https://maps.app.goo.gl/rLTesdBB77Ep5mKK9)
   - [🗺 1h路线(黑潮 2700日元)](https://maps.app.goo.gl/wDXVThbqgYeWumwi7)
+
 `14:10` 🚇+🚶‍ 前往酒店 [**大阪梅田由尼森**](https://www.booking.com/hotel/jp/unizo-osaka-umeda.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&age=0;all_sr_blocks=273866516_273715564_2_2_0;checkin=2023-11-10;checkout=2023-11-11;dest_id=-240905;dest_type=city;dist=0;group_adults=1;group_children=1;hapos=2;highlighted_blocks=273866516_273715564_2_2_0;hpos=2;matching_block_id=273866516_273715564_2_2_0;no_rooms=1;req_adults=1;req_age=0;req_children=1;room1=A%2C0;sb_price_type=total;sr_order=popularity;sr_pri_blocks=273866516_273715564_2_2_0__1583550;srepoch=1697803113;srpvid=54ce5422874703b0;type=total;ucfs=1&#_)
+
 `14:20` 🏨 办理入住
+
 `15:00` 自由活动
-  - [大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN). [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
+  - [大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN). [天守阁 9:00～17:00 600円](https://www.osakacastle.net/guide/), [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
   - `心斋桥`, `黑门市场`
   - 🍞 矶丸水产、一兰拉面、老板推荐🍜
   - muji, namoco, yodobashi
