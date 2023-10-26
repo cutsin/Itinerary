@@ -1,6 +1,6 @@
 # Kobe
 
-## Day 1 (11.10 PEK-KIX-梅田)
+## Day 1 (11.10 PEK > KIX > 梅田)
 
 `05:00` 🚗 出发去停车点
 
@@ -18,77 +18,68 @@
   - [🗺 49m路线(Haruka 3700日元)](https://maps.app.goo.gl/rLTesdBB77Ep5mKK9)
   - [🗺 1h路线(黑潮 2700日元)](https://maps.app.goo.gl/wDXVThbqgYeWumwi7)
 
-`14:10` 🚇+🚶‍ 前往酒店 [**大阪梅田由尼森**](https://www.booking.com/hotel/jp/unizo-osaka-umeda.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&age=0;all_sr_blocks=273866516_273715564_2_2_0;checkin=2023-11-10;checkout=2023-11-11;dest_id=-240905;dest_type=city;dist=0;group_adults=1;group_children=1;hapos=2;highlighted_blocks=273866516_273715564_2_2_0;hpos=2;matching_block_id=273866516_273715564_2_2_0;no_rooms=1;req_adults=1;req_age=0;req_children=1;room1=A%2C0;sb_price_type=total;sr_order=popularity;sr_pri_blocks=273866516_273715564_2_2_0__1583550;srepoch=1697803113;srpvid=54ce5422874703b0;type=total;ucfs=1&#_)
+`14:10` 🚶‍ 去酒店，约12 [**HOTEL UNIZO Osaka Umeda**](https://www.booking.com/Share-23Evda)
 
-`14:20` 🏨 办理入住
+`14:25` 🏨 办理入住
 
-`15:00` 自由活动
-  - [大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN).( [天守阁 9:00～17:00 600円](https://www.osakacastle.net/guide/), [御座船](https://act.qrtranslator.com/0016000001/000151), [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN))
+`14:40` 自由活动
+  - [大阪城公园 Free](https://www.osakacastlepark.jp/?lang=zh-CN)
+    - [天守阁 9:00～17:00 600円](https://www.osakacastle.net/guide/)
+    - [御座船](https://act.qrtranslator.com/0016000001/000151)
+    - [电动车](https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=zh-CN)
   - `心斋桥`, `黑门市场`
   - 🍞 矶丸水产、一兰拉面、老板推荐🍜
   - muji, namoco, yodobashi
   - 🏃大阪城公园跑步
 
-## Day 2 (11.11 梅田-神户)
+## Day 2 (11.11 梅田 > 三宫 > 六甲山 > 三宫) [参考](https://www.mafengwo.cn/gonglve/ziyouxing/165556.html)
 
-[参考](https://www.mafengwo.cn/gonglve/ziyouxing/165556.html)
+`08:00` 🚌+🚶‍ 退房，去 三宫
+  - [🗺 32m 420円](https://maps.app.goo.gl/XHncAzDBB4XVHMDcA) 步行9m到`Osaka Station`，坐 `Tokaido-Sanyo Line`
 
-🚇 梅田-三宫/御影(330/420円)
+`08:40` 🚶‍ 去酒店 [**Sannomiya Kobe Villa Fontaine**](https://www.booking.com/Share-kcQFR9)，约5m `14平米 单1350/2晚 || 双1754/2晚`
 
-16路🚌 到六甲缆车(210-160円)
+`08:45` 🏨 寄存 `(如时间不够，存三宫站)`
 
-[六甲缆车](https://www.rokkosan.com/cable/operation/?lang=zh-CHS) (7:10-21:10, 每20m一班) (单程<u>600円</u>, 往返<u>1100円</u>)
-
-[六甲山](https://www.rokkosan.com/top/operations/?lang=zh-CHS) (六甲山牧场、六甲八音盒博物馆 /六甲高山植物园通券(<u>1230円</u>)、六甲有马索道)
-
-[六甲有马缆车](https://koberope.jp/rokko) (9:30～17:30) (单程<u>1030円</u>，往返<u>1850円</u>)
-
-有马温泉 (金之汤650円，银之汤550円，两馆通券850円，三馆(加上太合汤殿馆)共通券是1000円
-
-[有马玩具博物馆](http://www.arima-toys.jp/)(10:00-17:00, <u>800円</u>)
-
-神户夜景🌃
-
-tips: 
-
-土山人荞麦面馆🍞
-
-❓JR 4Day pass / 有马六甲山一日游券🚇
-
-六甲山(有马六甲 山的一日游劵2360/2560円, 梅田的阪神电车站长室。[链接](https://www.mafengwo.cn/wenda/detail-7072357-7074374.html), [链接2](https://www.mafengwo.cn/i/17191819.html?sys_ver=)) 
+`08:55` 🚌+🚶‍ 去 `六甲缆车下站(Rokko Cable Shita Station)`
+  - [🗺 38m 380円](https://maps.app.goo.gl/QYLpKhbnAcNenah87) 步行6m到`Sannomiya Station`，坐 `Tokaido-Sanyo Line` 到 `Sannomiya Station`，坐 `16路` 到 `Rokko Cable Shita`
+  - [🗺 路线2❓]() 去16路🚌 到六甲缆车下站(210-160円)
 
 
+`09:40` 🚡 坐缆车到 [六甲缆车上站](https://www.rokkosan.com/cable/operation/?lang=zh-CHS) (7:10-21:10, 每20m一班) (单程<u>600円</u>, 往返<u>1100円</u>)
 
-🛏️ `三宫` 【神户三宫方丹别墅酒店】[14平米 单1350/2晚 || 双1754/2晚](https://www.booking.com/hotel/jp/villa-fontaine-kobe-sannomiya.zh-cn.html?aid=304142&label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=a0198d69b89e292aec7846e8742bb2da&dest_id=3796&dest_type=district&room1=A%2CA&group_adults=2&group_children=0&no_rooms=1&checkin=2023-11-11&checkout=2023-11-13&highlighted_blocks=53676521_346803203_2_2_0&atlas_src=sr_iw_title&ucfs=1#_) ✅
+`10:00` 自由活动
+  - [六甲山](https://www.rokkosan.com/top/operations/?lang=zh-CHS) (六甲山牧场、六甲八音盒博物馆 /六甲高山植物园通券(<u>1230円</u>)、六甲有马索道)
+  - [六甲有马缆车](https://koberope.jp/rokko) (9:30～17:30) (单程<u>1030円</u>，往返<u>1850円</u>)
+  - 有马温泉 (金之汤650円，银之汤550円，两馆通券850円，三馆(加上太合汤殿馆)共通券是1000円
+  - [有马玩具博物馆](http://www.arima-toys.jp/)(10:00-17:00, <u>800円</u>)
+  - 土山人荞麦面馆🍞
 
-==================
+`17:00`
+  - 神户夜景🌃
 
+**`Tips`**
+  - ❓JR 4Day pass / 有马六甲山一日游券🚇
+  - 六甲山(有马六甲山的一日游劵2360/2560円, 梅田的阪神电车站长室。[链接1](https://www.mafengwo.cn/wenda/detail-7072357-7074374.html), [链接2](https://www.mafengwo.cn/i/17191819.html?sys_ver=)
 
-## Day3 三宫 - 须磨 - 三宫(11.12, Sun🔥) 
+`19:00` 🚌+🚶‍ 回酒店 [**Sannomiya Kobe Villa Fontaine**](https://www.booking.com/Share-kcQFR9)
 
-[王子动物园 09:00 - 16:30](https://www.kobe-ojizoo.jp/) (600円)
+## Day3 (11.12 三宫 > 须磨 > 三宫) 
 
-[神户海洋博物馆 10:00-18:00](https://kobe-maritime-museum.com/s_chinese.html)(<u>900円</u>) 
+`08:00` 周边活动
+  - [王子动物园 09:00 - 16:30](https://www.kobe-ojizoo.jp/) (600円)
+  - [神户海洋博物馆 10:00-18:00](https://kobe-maritime-museum.com/s_chinese.html)(<u>900円</u>) 
+  - ❓[北野异人馆街道](https://www.kobeijinkan.com/cn_s/ijinkan_list)
 
-❓[北野异人馆街道](https://www.kobeijinkan.com/cn_s/ijinkan_list)
+`14:00` 🚇 去 [须磨]()
+  - 须磨寺
+  - 舞子公园
 
+`19:00` 🚌+🚶‍ 回酒店 [**Sannomiya Kobe Villa Fontaine**](https://www.booking.com/Share-kcQFR9)
 
-14:00 🚇 三宫-须磨
+## Day4 (11.13 三宫 > 明石 > 淡路岛 > 姬路)
 
-须磨寺
-
-🚇须磨 - 三宫
-
-🛏️ `三宫` 【神户三宫方丹别墅酒店】[14平米 单1350/2晚 || 双1754/2晚](https://www.booking.com/hotel/jp/villa-fontaine-kobe-sannomiya.zh-cn.html?aid=304142&label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=a0198d69b89e292aec7846e8742bb2da&dest_id=3796&dest_type=district&room1=A%2CA&group_adults=2&group_children=0&no_rooms=1&checkin=2023-11-11&checkout=2023-11-13&highlighted_blocks=53676521_346803203_2_2_0&atlas_src=sr_iw_title&ucfs=1#_) ✅
-
-==================
-
-
-## Day4 三宫 - 明石 - 淡路岛- 姬路(11.13, Mon)
-
-##### 上午:
-
-🚇 三宫-舞子, 寄存行李
+`8:00` 🚌+🚶‍ 退房，去舞子, 寄存行李
 
 🚌 高速巴士 ExpBus `舞子` - `淡路IC下車`
 <!-- 淡路岛( ⛲️ 火影忍者主题公园 , ⛲️ Awaji Hanasajiki)【❗️14:00左右回程末班车】 -->
