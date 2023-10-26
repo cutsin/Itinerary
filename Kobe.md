@@ -175,15 +175,21 @@
 
 
 ## Day7 (11.16, Thu)
-🚌 Day pass
+🚌 [Day pass](https://www2.city.kyoto.lg.jp/kotsu/webguide/en/ticket/regular_1day_card_comm.html)
 
 ##### 上午:
 ⛰️ 清水寺/金阁寺, 商业街
 
 ##### 下午:
-⛰️ 岚山
 
-🚇 奈良 - 京都
+`13:30` ⛰️  🚶5m + 🚇+🚌`清水寺` - `嵯峨野`(52m) + 🚶3m
+
+[嵯峨野游览小火车](880日元) [3天预售情况](https://www.sagano-kanko.co.jp/sc/kuseki.php#kuseki-future)
+[一个月前的上午10点开始预售](https://www.sagano-kanko.co.jp/sc/josyaken.php)
+
+`17:30` 🚇+🚌 (50m) + 走路(5m)
+
+`18:30` 🏨民宿
 
 🛏️ `京都民宿` (Rokuhara Inn 2卧室) [2448/2晚 不可退❗️](https://www.airbnb.cn/rooms/15362865?adults=3&check_in=2023-11-16&check_out=2023-11-17&source_impression_id=p3_1697717984_zLJSQyw6GgMvgGAe&previous_page_section_name=1000&federated_search_id=a5595435-6b9b-4426-806e-0f7ebabb7d42) ✅
 
@@ -192,7 +198,11 @@
 
 ## Day8 (11.17, Fri)
 
-`08:30` 🚇 `梅田站` - `箕面公园` (29m, 280円) + 🚶(43m, 1.8km)
+`07:30` `民宿`🚶(17m) + `Kyoto-Kawaramachi Station` - `梅田站🏨` (52m, 410円) + 🚶(1m, 0.75km)
+
+`09:00` 寄存🧳
+
+`09:30` 🚇 `梅田站` - `箕面公园` (29m, 280円) + 🚶(43m, 1.8km)
 
 `09:45` ⛲️ [箕面公园 24h Free](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) --- **箕面大滝**, **胜尾寺**
 
