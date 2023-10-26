@@ -212,7 +212,9 @@ tips:
 
 ## Day9 大阪 - 随心逛😄(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
-[海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700日元)
+09:00 🚇 `Umeda Station` - `Osakako Station`(23m, 290円 ) + 🚶(6m, 0.65km)
+
+[海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700円, 预计游玩3h)
 
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
@@ -223,14 +225,17 @@ tips:
 ## Day10(11.19, Sun🔥)
 
 ##### 方案1
-09:00 🚇 `Umeda Station` - `Sakaihigashi Station` (31m, 520円), +🚶 6m
+09:00 🚇 `Umeda Station` - `Sakaihigashi Station` (31m, 520円), +🚶 (6m, 0.45km)
 
-[Shimano Bicycle Museum 10:00-16:30](https://www.bikemuse.jp/en/)
+09:50 禧玛诺博物馆 [Shimano Bicycle Museum 10:00-16:30 500円](https://www.bikemuse.jp/en/)
 
+10:55 🚶 6m
 11:15 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
 
 ##### 方案2
 11:00 🚇 `梅田` - `机场` (HAKURA 52m 2940円,  Osaka Loop line 1210円)
+
+机场 巧克力
 
 ✈️ 13:50-16:10
 
