@@ -135,13 +135,18 @@
 
 ## Day5 姬路 - 赤穗 - 姬路 (11.14, Tue)
 
-##### 上午:
-🚇姬路 -赤穗
-城忠臣藏
+`09:30` 🚶(8m, .55km)  🚇`姬路` - `坂越站`(8m, 510円)
+
+`10:00` 自由活动
+
+* 坂越复古散步 [参考](ttps://www.mafengwo.cn/gonglve/ziyouxing/330356.html)
+
+* 赤穗城遗址 [参考](https://www.mafengwo.cn/i/17411350.html?sys_ver=)
+
 🚇 赤穗 - 姬路
 
-##### 下午:
-⛰️ 姬路城 + 好古园
+`12:30`
+ ⛰️ `姬路城` — `好古園` — `姬路神社` — `千姬小路` (通券 720円)
 
 🛏️ `姬路`【Daiwa Roynet Hotel Himeji】[22平米, 533/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&aid=304142&ucfs=1&arphpl=1&checkin=2023-11-14&checkout=2023-11-15&dest_id=-229173&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=1&req_children=1&age=0&req_age=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5a1c65b1c4ee00c5&srepoch=1697984874&all_sr_blocks=353958301_128630071_2_2_0&highlighted_blocks=353958301_128630071_2_2_0&matching_block_id=353958301_128630071_2_2_0&sr_pri_blocks=353958301_128630071_2_2_0__1380600&from=searchresults#hotelTmpl)  ✅
 
