@@ -202,17 +202,18 @@
 
 `09:00` 寄存🧳
 
-`09:30` 🚇 `梅田站` - `箕面公园` (29m, 280円) + 🚶(43m, 1.8km)
+`09:30` 🚶(12m, 0.75km) +🚇 `梅田站` - `箕面公园` (23m, 280円) + 🚶(39m, 1.8km)
 
-`09:45` ⛲️ [箕面公园 24h Free](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) --- **箕面大滝**, **胜尾寺**
+`10:50` ⛲️ [箕面公园 24h Free](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) --- **箕面大滝**, **胜尾寺**
 
 
-`13:30` 🚶(35m, 1.8km) + 🚇 `箕面公园` - `万博纪念公园` (35m, 580円) +  🚶(9m, 0.55km)
+`14:30` 🚶(35m, 1.8km) + 🚇 `Mino-o Station` - `Bampakukinenkoen Station` (35m, 580円) +  🚶(9m, 0.55km)
 
 `14:50` ⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage), [参考1](https://www.expo70-park.jp/event/61379/)
 
-`18:00` 🚶(10m, 0.55km) + 🚇 `万博纪念公园` - `梅田站` (40m 530円) + 🚶(12m, 0.75km)
+`18:30` 🚶(10m, 0.55km) + 🚇 `万博纪念公园` - `梅田站` (28m, 530円) + 🚶(11m, 0.75km)
 
+`19:30` 晚餐 + 自由活动
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
 
