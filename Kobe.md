@@ -194,15 +194,16 @@ tips:
 
 ## Day8 (11.17, Fri)
 
-08:30 🚇 `Umeda Station` - `箕面公园` (70m, 280円)
+`08:30` 🚇 `梅田站` - `箕面公园` (70m, 280円)
 
-⛲️ [箕面公园 Free 24h](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) ------ **箕面大滝**, **胜尾寺**
+⛲️ [箕面公园 24h Free](https://livejapan.com/en/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/) --- **箕面大滝**, **胜尾寺**
 
 
-13:00 🚇 `箕面公园` - `万博纪念公园` (75m, 580円)
-⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage),[参考1](https://www.sohu.com/a/366844513_407570), [参考2](https://www.expo70-park.jp/event/61379/)
+`13:00` 🚇 `箕面公园` - `万博纪念公园` (75m, 580円)
 
-18:00 🚇 `万博纪念公园` - `Umeda Station` (40m 630円)
+⛲️ [万博纪念公园 9:30～17:00 260円](https://www.expo70-park.jp/languages/chinese/) ------ [万博 秋 11.10-11.12 09:30-16:30](https://lohasfesta.jp/banpaku-autumn/stage), [参考1](https://www.expo70-park.jp/event/61379/)
+
+`18:00` 🚇 `万博纪念公园` - `梅田站` (40m 630円)
 
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
@@ -212,9 +213,9 @@ tips:
 
 ## Day9 大阪 - 随心逛😄(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
-09:00 🚇 `Umeda Station` - `Osakako Station`(23m, 290円 ) + 🚶(6m, 0.65km)
+`09:00` 🚇 `梅田站` - `Osakako Station`(23m, 290円 ) + 🚶(6m, 0.65km)
 
-[海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700円, 预计游玩3h)
+`09:30` [海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700円, 预计游玩2-3h)
 
 
 🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
@@ -225,17 +226,26 @@ tips:
 ## Day10(11.19, Sun🔥)
 
 ##### 方案1
-09:00 🚇 `Umeda Station` - `Sakaihigashi Station` (31m, 520円), +🚶 (6m, 0.45km)
 
-09:50 禧玛诺博物馆 [Shimano Bicycle Museum 10:00-16:30 500円](https://www.bikemuse.jp/en/)
+`09:00` 🚇 `梅田站` - `Sakaihigashi Station` (31m, 520円), +🚶 (6m, 0.45km)
 
-10:55 🚶 6m
-11:15 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
+`09:50` 禧玛诺博物馆 [Shimano Bicycle Museum 10:00-16:30 500円](https://www.bikemuse.jp/en/)
+
+`10:55` 🚶 6m
+
+`11:15` 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
+
+
 
 ##### 方案2
-11:00 🚇 `梅田` - `机场` (HAKURA 52m 2940円,  Osaka Loop line 1210円)
+`11:00` 🚇 `梅田` - `机场` (HAKURA 52m 2940円,  Osaka Loop line 1210円)
 
-机场 巧克力
+`12:10` 🚗 到达 **关西空港**，托运、安检
+
+
+`12:50` 💺 候机，**CA927** (巧克力等手信～)
+
+`13:50` 🛫 起飞
 
 ✈️ 13:50-16:10
 
