@@ -184,7 +184,7 @@
 
 `13:30` ⛰️  🚶5m + 🚇+🚌`清水寺` - `嵯峨野`(52m) + 🚶3m
 
-[嵯峨野游览小火车](880日元) [3天预售情况](https://www.sagano-kanko.co.jp/sc/kuseki.php#kuseki-future)
+`14:40` [嵯峨野游览小火车](880日元) [3天预售情况](https://www.sagano-kanko.co.jp/sc/kuseki.php#kuseki-future)
 [一个月前的上午10点开始预售](https://www.sagano-kanko.co.jp/sc/josyaken.php)
 
 `17:30` 🚇+🚌 (50m) + 走路(5m)
