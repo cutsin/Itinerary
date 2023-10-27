@@ -80,6 +80,7 @@
 `08:00` 三宫周边活动
   - [王子动物园](https://maps.app.goo.gl/EE6KkgMgT4jqR1YP8) [09:00-16:30 <u>600円</u>](https://www.kobe-ojizoo.jp/)
   - [神户海洋博物馆](https://maps.app.goo.gl/UXhHDFX5Rpxb69SS8) [10:00-18:00 <u>900円</u>](https://kobe-maritime-museum.com/s_chinese.html) 
+  - [兵库县立美术馆](https://maps.app.goo.gl/xFR2s2o4v66HMKtT9) 关西最大
   - ❓[北野异人馆街](https://maps.app.goo.gl/xr35WuuyGUj93kFy5) [介绍](https://www.kobeijinkan.com/cn_s/ijinkan_list)
 
 `15:00` [须磨寺](https://maps.app.goo.gl/QJuFXyHy6UJuLDzy8) ❓第二天去明石顺路也行
@@ -187,7 +188,7 @@
 
 ## Day 8 (11.17 京都 > 梅田 > 箕面)
 
-`8:00` 🚶+🚌 退房，去 [](https://maps.app.goo.gl/B33zoEtwqJZYwSCw6), 车站寄存
+`08:00` 🚶+🚌 退房，去 [](https://maps.app.goo.gl/B33zoEtwqJZYwSCw6), 车站寄存
 
 `07:30` `民宿`🚶(17m) + `Kyoto-Kawaramachi Station` - `梅田站🏨` (52m, 410円) + 🚶(1m, 0.75km)
 
@@ -216,30 +217,27 @@
 
 `18:30` 🏨 回酒店
 
-## Day 10 (11.19 大版 > PEK)
+## Day 10 (11.19 梅田 > KIX > PEK)
 
-### 方案1
+### 方案1 `时间来不及`
 
 `09:00` 🚇 `梅田站` - `Sakaihigashi Station` (31m, 520円), +🚶 (6m, 0.45km)
 
-`09:50` 禧玛诺博物馆 [Shimano Bicycle Museum 10:00-16:30 500円](https://www.bikemuse.jp/en/)
+`09:50` [ 禧玛诺博物馆 (Shimano Bicycle Museum)](https://www.bikemuse.jp/en/) 10:00-16:30 500円
 
-`10:55` 🚶 6m
+`11:10` 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
 
-`11:15` 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
-
-### 方案2
+### 方案2 `直接走`
 
 `11:00` 🚇 `梅田` - `机场` (HAKURA 52m 2940円,  Osaka Loop line 1210円)
 
-`12:10` 🚗 到达 **关西空港**，托运、安检
+`11:50` 🚗 到达 `KIX` ，托运、安检
 
 `12:50` 💺 候机，**CA927** (巧克力等手信～)
 
 `13:50` 🛫 起飞
 
 ## References
-
 
 - [路线参考](https://www.mafengwo.cn/i/709304.html?sys_ver=)
 - [中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
