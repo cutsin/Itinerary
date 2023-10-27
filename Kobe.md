@@ -83,132 +83,111 @@
   - ❓[北野异人馆街](https://maps.app.goo.gl/xr35WuuyGUj93kFy5) [介绍](https://www.kobeijinkan.com/cn_s/ijinkan_list)
 
 `15:00` [须磨寺](https://maps.app.goo.gl/QJuFXyHy6UJuLDzy8) ❓第二天去明石顺路也行
-  - [🗺 44m](https://maps.app.goo.gl/gbLqzVJABcZDYQfy7) 步行约30m
+  - [🗺 44m 190円](https://maps.app.goo.gl/gbLqzVJABcZDYQfy7) 乘车14m，前后步行各15m(1km)
 
 `19:00` 🚌+🚶‍ 回酒店 [**Sannomiya Kobe Villa Fontaine**](https://www.booking.com/Share-kcQFR9)
 
-## Day4 (11.13 三宫 > 明石 > 淡路岛 > 姬路)
+## Day4 (11.13 三宫 > 舞子 > 淡路岛 > 姬路)
 
-`8:00` 🚌+🚶‍ 退房，去舞子, 寄存行李
+`8:00` 🚶+🚌 退房，去 [舞子 (Maiko Station)](https://maps.app.goo.gl/B33zoEtwqJZYwSCw6), 车站寄存
+  - [🗺 28m 320円](https://maps.app.goo.gl/aNETJ5ij2ggSrpJ1A)
 
-  - 舞子公园
+`8:30` 🚶 舞子公园 + 孙文纪念馆 + 明石海峡大桥
 
-🚌 高速巴士 ExpBus `舞子` - `淡路IC下車`
-<!-- 淡路岛( ⛲️ 火影忍者主题公园 , ⛲️ Awaji Hanasajiki)【❗️14:00左右回程末班车】 -->
+`8:45`/`9:45` 去淡路岛 二次元森林
+  - [🗺 20m](https://maps.app.goo.gl/SvSCzy3PNhnnYF6a9) 每1h/2h一班 `Wajishima Anime Park`/`淡路IC`下车
+
+`09:30`/`10:30` 二次元森林 09:30-17:30 [各位置票券](https://ticket.nijigennomori.com/)
+  - 火影忍者 [票券](https://www.kkday.com/zh-cn/product/23958)
+  - 鬼灭之刃
+  - 哥斯拉/勇者斗恶龙
+
 [明石海峡大橋に一番近い道の駅 ](http://michi-awaji.co.jp/) 
 > (舞子、三宮、大阪ほか高速バス乗り場　>　淡路IC下車　>　タクシーで約５分)
 
-🎡 [火影忍者主题公园 Naruto x Boruto park Nijigen no mori 10:00 - 20:00](https://ticket.nijigennomori.com/?_gl=1*1wjzx49*_ga*MjAwMzk5MDAzOC4xNjk4MjIxODkw*_ga_ML469TTH3P*MTY5ODIyMTg5MC4xLjEuMTY5ODIyMjUwNS4wLjAuMA..)
 
 [Awaji Hanasajiki]()
 
-##### 下午:
+`13:00`
+  - [淡路农场 英格兰之丘 09:30-17:00 1200円](https://www.england-hill.com/tw/)
 
-[淡路农场 英格兰之丘 09:30-17:00 1200円](https://www.england-hill.com/tw/)
+`14:30` [坐船观潮游](https://www.uzushio-kisen.com/cn/) (1600円/人, 可预测4天内观赏时段)
+  - `选择1` [龟浦港](https://www.uzusio.com/zh/geton/#lnk_rat)
+    - `船出发地点`: 日本 德岛县鸣门市鸣门公园龟浦观光港```
+    - 有两种船(预约时无需付款，乘船当天柜台面款)    
+      1. 大型观潮船`Wonder鸣门号`（无需预约）(稳，离漩涡稍微远一点) (1800円)
+      2. `AQUA EDDY` 小型水中观潮船（人气提早约❗️）(近，可能会晕船) (2400円)
+  - `选择2` [福良港出发](https://www.uzushio-kisen.com/cn/)
+    - `船出发地点`: 兵庫県南あわじ市福良港 うずしおドームなないろ館
+    - 一种大船(须预约时需要直接付款，现场如果有余票也可以买; 好时段人多~)
+      1. [`Uzushio Cruise`](https://www.uzushio-kisen.com/cn/) (咸临丸、 日本丸 两艘大船都开的很稳)
+      
+`下午某时` [大鸣门桥漩渦之道](https://naruto-tourism.jp/zh/sightseeing/1928) 9:00-17:00 510円
 
-[坐船观潮游](https://www.uzushio-kisen.com/cn/) (1600円/人, 可预测4天内观赏时段)
-
-
-* [选择一: 龟浦港](https://www.uzusio.com/zh/geton/#lnk_rat)：
-
-  `船出发地点`: 日本 德岛县鸣门市鸣门公园龟浦观光港```
-
-  有两种船(预约时无需付款，乘船当天柜台面款):
-
-    1. 大型观潮船`Wonder鸣门号`（无需预约）(稳，离漩涡稍微远一点) (1800円)
-
-    2. `AQUA EDDY` 小型水中观潮船（人气提早约❗️）(近，可能会晕船) (2400円)
-
-
-* [选择二: 福良港出发](https://www.uzushio-kisen.com/cn/)：
-
-  `船出发地点`: 兵庫県南あわじ市福良港 うずしおドームなないろ館
-
-  一种大船(须预约时需要直接付款，现场如果有余票也可以买; 好时段人多~)
-
-    1. [`Uzushio Cruise`](https://www.uzushio-kisen.com/cn/) (咸临丸、 日本丸 两艘大船都开的很稳)
-
-
----------
-
-
-[大鸣门桥漩渦之道 9:00-17:00](https://naruto-tourism.jp/zh/sightseeing/1928) (510円/人)
-
-[大鸣门桥架桥纪念馆 9：00～17：00](https://naruto-tourism.jp/zh/sightseeing/1928) (610円/人)
+`下午某时` [大鸣门桥架桥纪念馆](https://naruto-tourism.jp/zh/sightseeing/1928) 9:00-17:00 610円
 
 🚇 舞子-姬路
 
 [参考链接](https://www.mafengwo.cn/gonglve/ziyouxing/330356.html)
 
-🛏️ `姬路` 【Daiwa Roynet Hotel Himeji】[22平米, 656/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?aid=304142&label=gen173bo-1FCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQHoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIF4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&age=0;all_sr_blocks=353958302_128630071_2_2_0;checkin=2023-11-13;checkout=2023-11-14;dest_id=-229173;dest_type=city;dist=0;group_adults=2;group_children=1;hapos=1;highlighted_blocks=353958302_128630071_2_2_0;hpos=1;matching_block_id=353958302_128630071_2_2_0;no_rooms=1;req_adults=2;req_age=0;req_children=1;room1=A%2CA%2C0;sb_price_type=total;sr_order=popularity;sr_pri_blocks=353958302_128630071_2_2_0__1345500;srepoch=1697984418;srpvid=5fbb64ce0a020015;type=total;ucfs=1&#hotelTmpl)  ✅
+`18:30` 去姬路 [酒店 (Daiwa Roynet Hotel Himeji)]((https://www.booking.com/Share-UPoFwa)) 22平 656/晚 到店确认房型 不可退❗️
 
-==================
+## Day 5 (11.14 姬路 > 赤穗 > 姬路)
 
+`08:30` 🚶(8m, .55km)  🚇`姬路` - `坂越站`(8m, 510円)
 
-## Day5 姬路 > 赤穗 > 姬路 (11.14, Tue)
-
-`09:30` 🚶(8m, .55km)  🚇`姬路` - `坂越站`(8m, 510円)
-
-`10:00` 自由活动
-
-* 坂越复古散步 [参考](ttps://www.mafengwo.cn/gonglve/ziyouxing/330356.html)
-
-* 赤穗城遗址 [参考](https://www.mafengwo.cn/i/17411350.html?sys_ver=)
+`09:00` 自由活动
+  - 坂越复古散步 [参考](https://www.mafengwo.cn/gonglve/ziyouxing/330356.html)
+  - 赤穗城遗址 [参考](https://www.mafengwo.cn/i/17411350.html?sys_ver=)
+  - 冰之山后山那岐山国立公园
+  - 竹田城迹
 
 🚇 赤穗 - 姬路
 
 `12:30`
  ⛰️ `姬路城` — `好古園` — `姬路神社` — `千姬小路` (通券 720円)
 
-🛏️ `姬路`【Daiwa Roynet Hotel Himeji】[22平米, 533/晚 到店确认房型 不退❗️](https://www.booking.com/hotel/jp/daiwa-roynet-himeji.zh-cn.html?label=gen173bo-1DCAEoggI46AdIK1gDaHWIAQGYASu4ARjIAQzYAQPoAQH4AQSIAgGYAiGoAgS4Ar_hpKkGwAIB0gIkY2QwMzBhMjEtMDQ1Ni00ODg0LWFiNzMtOTdiOWJkZmVmNjZm2AIE4AIB&sid=676ec182c77b82050dfa50a0e61f5c1f&aid=304142&ucfs=1&arphpl=1&checkin=2023-11-14&checkout=2023-11-15&dest_id=-229173&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=1&req_children=1&age=0&req_age=0&hpos=1&hapos=1&sr_order=popularity&srpvid=5a1c65b1c4ee00c5&srepoch=1697984874&all_sr_blocks=353958301_128630071_2_2_0&highlighted_blocks=353958301_128630071_2_2_0&matching_block_id=353958301_128630071_2_2_0&sr_pri_blocks=353958301_128630071_2_2_0__1380600&from=searchresults#hotelTmpl)  ✅
+`19:00` 回酒店
 
-==================
+## Day 6 (11.15 姬路 > 奈良 > 京都)
 
+`09:30` 🚶+🚇 退房，去奈良, 车站寄存
+  - [🗺 2h15m 2310円](https://maps.app.goo.gl/tTmvujkBNK4uf46H8) 步行8m+2m
 
-
-## Day6 姬路 > 奈良 > 京都 (11.15, Wed)
-
-##### 上午:
-`09:30` 🚶(8m, .55km) + 🚇 `姬路` - `奈良` (2h17m 2280円, 2h7m 4980円)
-
-`12:00` 奈良公园 小鹿
+`11:30` 奈良公园 小鹿
 
 `13:00` 🚇 `奈良` - `Gion-Shijo Station` (40m, 1920円) + 🚶(3m) + 🚌`市营203`(17m, 10stops) + 🚶(2m, 0.17km)
 
-`14:10` 🏨 民宿办理入住
-`14:25` 🚶(3m) + 🚌 (17m, 10stops) + 🚶 (7m)
+`13:00` 🚶+🚇 去 [京都祇園四条 (Gion-Shijo Station)](https://maps.app.goo.gl/esT1WRxcj8gCkCVh6)
+  - [🗺 52m 890円](https://maps.app.goo.gl/CxRsKHXSn6i55qRe7)
 
-`15:00` ⛰️ [二条城 08:45 - 16:00](https://nijo-jocastle.city.kyoto.lg.jp/guide/annai/?lang=zh-hans) - 二之丸御殿(08:45 - 16:10)
+`14:00` 去 [民宿 (Rokuhara Inn)](https://www.airbnb.cn/hotels/15362865?check_in=2023-11-16&check_out=2023-11-17&guests=1&adults=3&s=67&unique_share_id=51a717cc-c77b-4d79-84a6-2cccb09ddc94)
+  - [🗺 17m] `市营203` 🚶(3m) + 🚌 (17m, 10stops) + 🚶 (7m)
 
+`14:20` 🏨 办理入住
 
-🛏️ `京都民宿` (Rokuhara Inn 2卧室) [2448/2晚 不可退❗️](https://www.airbnb.cn/rooms/15362865?adults=3&check_in=2023-11-16&check_out=2023-11-17&source_impression_id=p3_1697717984_zLJSQyw6GgMvgGAe&previous_page_section_name=1000&federated_search_id=a5595435-6b9b-4426-806e-0f7ebabb7d42) ✅
+`14:30` 八坂神社
 
-==================
+`15:00` 去 [二条城 (Nijo-jo Castle)](https://nijo-jocastle.city.kyoto.lg.jp/guide/annai/?lang=zh-hans) 08:45-16:00 二之丸御殿(Ninomaru-Goten Palace) 08:45-16:10)
+  - [🗺 15m 230円](https://maps.app.goo.gl/sWn2WxPbMJPHvPPj9)
 
+## Day7 (11.16 京都) [买 One Day pass](https://www2.city.kyoto.lg.jp/kotsu/webguide/en/ticket/regular_1day_card_comm.html)
 
-## Day7 京都(11.16, Thu)
-🚌 [Day pass](https://www2.city.kyoto.lg.jp/kotsu/webguide/en/ticket/regular_1day_card_comm.html)
+`上午` ⛰️ 清水寺/金阁寺, 商业街
 
-##### 上午:
-⛰️ 清水寺/金阁寺, 商业街
+`13:30` ⛰️ 🚶5m + 🚇+🚌`清水寺` - `嵯峨野`(52m) + 🚶3m
 
-##### 下午:
-
-`13:30` ⛰️  🚶5m + 🚇+🚌`清水寺` - `嵯峨野`(52m) + 🚶3m
-
-`14:40` [嵯峨野游览小火车](880日元) [3天预售情况](https://www.sagano-kanko.co.jp/sc/kuseki.php#kuseki-future)
-[一个月前的上午10点开始预售](https://www.sagano-kanko.co.jp/sc/josyaken.php)
+`14:40` `嵯峨野小火车` 880円
+  - [3天预售情况](https://www.sagano-kanko.co.jp/sc/kuseki.php#kuseki-future)
+  - [一个月前的上午10点开始预售](https://www.sagano-kanko.co.jp/sc/josyaken.php)
 
 `17:30` 🚇+🚌 (50m) + 走路(5m)
 
-`18:30` 🏨民宿
+`18:30` 🏨 回民宿
 
-🛏️ `京都民宿` (Rokuhara Inn 2卧室) [2448/2晚 不可退❗️](https://www.airbnb.cn/rooms/15362865?adults=3&check_in=2023-11-16&check_out=2023-11-17&source_impression_id=p3_1697717984_zLJSQyw6GgMvgGAe&previous_page_section_name=1000&federated_search_id=a5595435-6b9b-4426-806e-0f7ebabb7d42) ✅
+## Day 8 (11.17 京都 > 梅田 > 箕面)
 
-==================
-
-
-## Day8 京都 - 梅田 - 箕面(11.17, Fri)
+`8:00` 🚶+🚌 退房，去 [](https://maps.app.goo.gl/B33zoEtwqJZYwSCw6), 车站寄存
 
 `07:30` `民宿`🚶(17m) + `Kyoto-Kawaramachi Station` - `梅田站🏨` (52m, 410円) + 🚶(1m, 0.75km)
 
@@ -227,26 +206,19 @@
 
 `19:30` 晚餐 + 自由活动
 
-🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
+`20:30` 🏨 去 [酒店 (Hotel Livemax BUDGET Umeda)](https://www.booking.com/Share-8dgcJg)  10平974/2晚, 15平1177/2晚
 
-==================
-
-
-## Day9 大阪 - 随心逛😄(11.18, Sat🔥)[参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
+## Day9 (11.18 大阪) 随心逛😄 [参考](https://www.mafengwo.cn/i/6617477.html?sys_ver=)
 
 `09:00` 🚇 `梅田站` - `Osakako Station`(23m, 290円 ) + 🚶(6m, 0.65km)
 
 `09:30` [海游馆 09:30 - 20:00](https://www.kaiyukan.com/info/hours/) (19:00前可入场 2700円, 预计游玩2-3h)
 
+`18:30` 🏨 回酒店
 
-🛏️ `大阪`【Hotel Livemax BUDGET Umeda】[10平974/2晚, 15平1177/2晚](https://www.booking.com/hotel/jp/hoteruribumatukusubudgetmei-tian.zh-cn.html?label=gen173nr-1BCAEoggI46AdIM1gEaMkBiAEBmAEruAEYyAEM2AEB6AEBiAIBqAIEuAKatM2pBsACAdICJDQ4YTdlNTYyLWQ0OTEtNDJmNi04MTg4LWYyNGUwN2MyNjMxZdgCBeACAQ&sid=506cd7b0580b25bcad39ef7d66e58c9f&aid=304142) ✅
+## Day 10 (11.19 大版 > PEK)
 
-==================
-
-
-## Day10(11.19, Sun🔥)
-
-##### 方案1
+### 方案1
 
 `09:00` 🚇 `梅田站` - `Sakaihigashi Station` (31m, 520円), +🚶 (6m, 0.45km)
 
@@ -256,36 +228,22 @@
 
 `11:15` 🚇 `Sakaihigashi Station` - `Kansai International Airport` (53m, 1080円)
 
+### 方案2
 
-
-##### 方案2
 `11:00` 🚇 `梅田` - `机场` (HAKURA 52m 2940円,  Osaka Loop line 1210円)
 
 `12:10` 🚗 到达 **关西空港**，托运、安检
-
 
 `12:50` 💺 候机，**CA927** (巧克力等手信～)
 
 `13:50` 🛫 起飞
 
-✈️ 13:50-16:10
-
-
-========================================================================
-
-
 ## References
 
 
-[路线参考](https://www.mafengwo.cn/i/709304.html?sys_ver=)
-
-[中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
-
-
-❌ [国立国际美术馆 10:00 - 17:00](https://www.nmao.go.jp/en/) (❌ temporary closure until Feb, 5, 2024)
-
-❌ [光之教堂 13:30-16:00](http://ibaraki-kasugaoka-church.jp/e-top.html) (Currently, suspending regular building tours totally.)
-
-美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
-
-(寶塚) 手塚治虫紀念館
+- [路线参考](https://www.mafengwo.cn/i/709304.html?sys_ver=)
+- [中之岛美术馆 10:00-17:00](https://nakka-art.jp/sc/)
+- 美秀美术馆[参考](https://www.mafengwo.cn/gonglve/ziyouxing/240694.html)
+- (寶塚) 手塚治虫紀念館
+- ❌ [国立国际美术馆 10:00 - 17:00](https://www.nmao.go.jp/en/) (❌ temporary closure until Feb, 5, 2024)
+- ❌ [光之教堂 13:30-16:00](http://ibaraki-kasugaoka-church.jp/e-top.html) (Currently, suspending regular building tours totally.)
