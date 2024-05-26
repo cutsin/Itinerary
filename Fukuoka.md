@@ -66,11 +66,13 @@ https://www.my-kagawa.jp/zh_CN/itineraries/itineraries04
 
 ## Day 11 (6.19 ?-?) ?℃ 💧?%
 
-`14:00` 🚶‍ 去酒店，约3m [**Umeda Unizo**](https://www.booking.com/Share-nLrCEh)
+- Plan A 梅田 `14:00` 🚶‍ 去酒店，约3m [**Umeda Unizo**](https://www.booking.com/Share-nLrCEh)
+- Plan B 京都 `14:00` 🚶‍ 去酒店，约5m[**M's Hotel Kyoto Station Taruya**](https://www.booking.com/Share-bu4i4r)
 
 ## Day 12 (6.19 ?-?) ?℃ 💧?%
 
-`14:00` 🚶‍ 去酒店，约3m [**Umeda Unizo**](https://www.booking.com/Share-nLrCEh)
+- Plan A `14:00` 🚶‍ 去酒店，约3m [**Umeda Unizo**](https://www.booking.com/Share-nLrCEh)
+- Plan B `14:00` 🚶‍ 去酒店，约5m [**M's Hotel Kyoto Station Taruya**](https://www.booking.com/Share-bu4i4r)
 
 ## Day 13 (6.30 KIX-PEK) 28℃ 💧1%
 
