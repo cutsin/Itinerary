@@ -66,11 +66,15 @@ https://www.my-kagawa.jp/zh_CN/itineraries/itineraries04
 
 ## Day 11 (6.19 ?-?) ?℃ 💧?%
 
+`14:00` 🚶‍ 去酒店，约3m [**Umeda Unizo**](https://www.booking.com/Share-nLrCEh)
+
 ## Day 12 (6.19 ?-?) ?℃ 💧?%
+
+`14:00` 🚶‍ 去酒店，约3m [**Umeda Unizo**](https://www.booking.com/Share-nLrCEh)
 
 ## Day 13 (6.30 KIX-PEK) 28℃ 💧1%
 
-`10:00` 🚌+🚶‍ 退房，去Shimano博物馆
+`12:00` 🚌+🚶‍ 退房，去Shimano博物馆
 
 `19:00` 🚗 到达 **KIX**，托运、安检
 
